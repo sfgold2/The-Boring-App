@@ -114,7 +114,10 @@ Mobile app for planning events that cater to the needs, budgets, and availabilit
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
