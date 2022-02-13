@@ -100,11 +100,15 @@ Mobile app for planning events that cater to the needs, budgets, and availabilit
     * Back: returns to main screen
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
-
+<img src="https://i.imgur.com/XAYibub.png" width=300>
+<img src="https://i.imgur.com/j7PMor3.png" width=300>
+<img src="https://i.imgur.com/bALKqoz.png" width=300>
+<img src="https://i.imgur.com/75vYhKK.png" width=300>
+<img src="https://i.imgur.com/sETxgXw.png" width=300>
+<img src="https://i.imgur.com/9Ju4hD4.png" width=300>
+<img src="https://i.imgur.com/wE4ptX6.png" width=300>
 ### [BONUS] Interactive Prototype
 
 ## Schema 
